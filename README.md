@@ -1,5 +1,5 @@
-# devBrach
-this is dev brach
+# Dev Branch
+this is dev branch
 
 # Getting Started with Create React App
 
